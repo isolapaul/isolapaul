@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Isola Paul 👋
+- 💻 Studying Software Engineering at BME in Budapest
+- 🎵 SoundCloud artist: [WhoIsLuka](https://soundcloud.com/who-is-luka)
+- 🤓 Trying to work on more projects
 
 <!--
 **isolapaul/isolapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
