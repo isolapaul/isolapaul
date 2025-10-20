@@ -1,6 +1,6 @@
 ## Hi, I'm Isola Paul 👋
 - 💻 Studying Software Engineering at BME in Budapest
-- 🎵 SoundCloud artist: [WhoIsLuka](https://soundcloud.com/who-is-luka)
+- 📫 How to reach me: isolapaul100@gmail.com
 - 🤓 Trying to work on more projects
 
 <!--
