@@ -2,6 +2,7 @@
 - 💻 Studying Software Engineering at BME in Budapest
 - 📫 How to reach me: isolapaul100@gmail.com
 - 🤓 Trying to work on more projects
+- 🪪 My website: https://isolapaul.github.io/
 
 <!--
 **isolapaul/isolapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
